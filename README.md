@@ -48,6 +48,9 @@ To predict the next trading day's closing price using past stock market data suc
 
 ## 🔮 Result
 The model successfully captures the general trend of stock prices and predicts the next-day closing price based on historical patterns.
+## 📊 Project Output
+
+![Actual vs Predicted Stock Price](images/actual_vs_predicted.png)
 
 ---
 
@@ -58,3 +61,8 @@ This project is for educational purposes only and does not provide financial or 
 
 ## 👨‍💻 Author
 **Sateesh Kumar Patlegar**
+💼 Open to data science, analytics, and quant roles
+
+📧 Email: patlegarsateeshkumar@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/patlegar-sateesh-kumar-868870258/

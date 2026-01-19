@@ -1,1 +1,18 @@
+## 🛠️ Setup & Installation
 
+Follow the steps below to run this project locally or in Google Colab.
+
+---
+
+### 🔹 Option 1: Run in Google Colab (Recommended)
+
+1. Open Google Colab  
+   👉 https://colab.research.google.com
+
+2. Upload the notebook file  
+
+3. Install required library (if not already installed):
+`''python
+!pip install yfinance
+
+Runtime → Run all

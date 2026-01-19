@@ -1,0 +1,60 @@
+# 📈 Stock Market Price Prediction using Machine Learning
+
+## 🔍 Project Overview
+This project predicts the next-day closing price of a stock using historical market data and machine learning techniques.  
+It demonstrates a complete end-to-end ML workflow with time-series awareness.
+
+---
+
+## 🧠 Problem Statement
+To predict the next trading day's closing price using past stock market data such as Open, High, Low, Volume, and Moving Averages.
+
+---
+
+## 📊 Dataset
+- Source: Yahoo Finance (via yfinance)
+- Features:
+  - Open
+  - High
+  - Low
+  - Volume
+  - MA_10 (10-day Moving Average)
+  - MA_50 (50-day Moving Average)
+
+---
+
+## ⚙️ Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- yfinance
+- Google Colab
+
+---
+
+## 🤖 Machine Learning Model
+- Linear Regression (Time-Series Regression)
+
+---
+
+## 📈 Model Evaluation
+- MAE (Mean Absolute Error)
+- MSE (Mean Squared Error)
+- RMSE (Root Mean Squared Error)
+
+---
+
+## 🔮 Result
+The model successfully captures the general trend of stock prices and predicts the next-day closing price based on historical patterns.
+
+---
+
+## ⚠️ Disclaimer
+This project is for educational purposes only and does not provide financial or investment advice.
+
+---
+
+## 👨‍💻 Author
+**Sateesh Kumar Patlegar**

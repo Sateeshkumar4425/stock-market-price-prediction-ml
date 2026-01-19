@@ -53,6 +53,26 @@ The model successfully captures the general trend of stock prices and predicts t
 ![Actual vs Predicted Stock Price](images/actual_vs_predicted.png)
 
 ---
+## 🛠️ Setup & Installation
+
+Follow the steps below to run this project locally or in Google Colab.
+
+---
+
+### 🔹 Option 1: Run in Google Colab (Recommended)
+
+1. Open Google Colab  
+   👉 https://colab.research.google.com
+
+2. Upload the notebook file  
+
+3. Install required library (if not already installed):
+`''python
+!pip install yfinance
+
+Runtime → Run all
+
+---
 
 ## ⚠️ Disclaimer
 This project is for educational purposes only and does not provide financial or investment advice.

@@ -52,23 +52,32 @@ The model successfully captures the general trend of stock prices and predicts t
 
 ![Actual vs Predicted Stock Price](images/actual_vs_predicted.png)
 
+**Model Evaluation:**
+- MAE: 31.45
+- RMSE: 42.20
+
+**Next Day Predicted Price:**
+₹3215.55
+
 ---
 ## 🛠️ Setup & Installation
 
-Follow the steps below to run this project locally or in Google Colab.
+This project is designed to run in **Google Colab**.
 
 ---
 
-### 🔹 Option 1: Run in Google Colab (Recommended)
+### 🔹 Run in Google Colab
 
 1. Open Google Colab  
    👉 https://colab.research.google.com
 
-2. Upload the notebook file  
+2. Open the notebook from GitHub  
+   - Navigate to `stock_prediction.ipynb`  
+   - Click **Open in Colab** (or upload the file manually)
 
-3. Install required library (if not already installed):
-`''python
-!pip install yfinance
+3. Install required dependency (if not already available):
+   ```python
+   !pip install yfinance
 
 Runtime → Run all
 

@@ -61,6 +61,7 @@ This project is for educational purposes only and does not provide financial or 
 
 ## 👨‍💻 Author
 **Sateesh Kumar Patlegar**
+
 💼 Open to data science, analytics, and quant roles
 
 📧 Email: patlegarsateeshkumar@gmail.com

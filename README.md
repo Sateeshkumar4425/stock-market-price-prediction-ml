@@ -85,7 +85,8 @@ Runtime → Run all
 
 ## ⚠️ Disclaimer
 This project is for educational purposes only and does not provide financial or investment advice.
-
+## 📄 License
+This project is licensed under the MIT License.
 ---
 
 ## 👨‍💻 Author
